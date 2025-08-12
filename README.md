@@ -1,5 +1,5 @@
 # Bank_ChurnRate_Business_Analysis
-This is a on class project we did in our Business Analysis Class 
+This is a on class project i did in Business Analysis Class 
 
 **Business Analytics Project: Exploring Customer Attrition Patterns and Financial Behavior in Credit Card Usage**
 
